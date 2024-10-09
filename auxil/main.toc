@@ -1,0 +1,22 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{8}{chapter.1}%
+\contentsline {section}{\numberline {1.1}General description}{8}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Physics of the particle collisions}{8}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Current results on heavy flavour jet angularities}{8}{section.1.3}%
+\contentsline {section}{\numberline {1.4}RHIC and STAR}{8}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Jet algorithms}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}k\textsubscript {t} algorithm}{9}{section.2.1}%
+\contentsline {section}{\numberline {2.2}anti-k\textsubscript {t} algorithm}{9}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Cambridge-Aachen algorithm}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}SISCone Algorithm algorithm}{9}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Simulations of hard probes in high energy collisions}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Pythia}{10}{section.3.1}%
+\contentsline {section}{\numberline {3.2}STAR and RHIC settings}{10}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Simulation results}{10}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Heavy flavour jets simulations for STAR}{11}{chapter.4}%
+\contentsline {section}{\numberline {4.1}D\textsubscript {0} jet tagging}{11}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Variables}{11}{section.4.2}%
+\contentsline {chapter}{Conclusion}{12}{chapter*.2}%
+\contentsline {chapter}{The list of used sources}{13}{chapter*.2}%
+\contentsline {chapter}{Apendix}{14}{chapter*.3}%
+\contentsline {chapter}{\numberline {A}Apendicies' name}{14}{appendix.A}%
